@@ -1,0 +1,17 @@
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\bin\Debug\GradesTest.dll
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\bin\Debug\GradesTest.pdb
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\bin\Debug\GradesPrototype.exe
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\bin\Debug\GradesPrototype.pdb
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\bin\Debug\GradesPrototype.exe.config
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\obj\Debug\GradesTest.csproj.AssemblyReference.cache
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\obj\Debug\GradesTest.csproj.CoreCompileInputs.cache
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\obj\Debug\GradesTest.csproj.CopyComplete
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\obj\Debug\GradesTest.dll
+D:\Обучение_C#\М20483\Разработки\Mod04\Exercise 2\GradesTest\obj\Debug\GradesTest.pdb
