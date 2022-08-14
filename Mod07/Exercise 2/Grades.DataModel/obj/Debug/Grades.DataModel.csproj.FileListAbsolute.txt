@@ -1,0 +1,12 @@
+D:\Обучение_C#\М20483\Разработки\Mod07\Exercise 2\Grades.DataModel\bin\Debug\Grades.DataModel.dll.config
+D:\Обучение_C#\М20483\Разработки\Mod07\Exercise 2\Grades.DataModel\bin\Debug\Grades.DataModel.dll
+D:\Обучение_C#\М20483\Разработки\Mod07\Exercise 2\Grades.DataModel\bin\Debug\Grades.DataModel.pdb
+D:\Обучение_C#\М20483\Разработки\Mod07\Exercise 2\Grades.DataModel\bin\Debug\EntityFramework.dll
+D:\Обучение_C#\М20483\Разработки\Mod07\Exercise 2\Grades.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Обучение_C#\М20483\Разработки\Mod07\Exercise 2\Grades.DataModel\bin\Debug\EntityFramework.xml
+D:\Обучение_C#\М20483\Разработки\Mod07\Exercise 2\Grades.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Обучение_C#\М20483\Разработки\Mod07\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.AssemblyReference.cache
+D:\Обучение_C#\М20483\Разработки\Mod07\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+D:\Обучение_C#\М20483\Разработки\Mod07\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CopyComplete
+D:\Обучение_C#\М20483\Разработки\Mod07\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.dll
+D:\Обучение_C#\М20483\Разработки\Mod07\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.pdb
